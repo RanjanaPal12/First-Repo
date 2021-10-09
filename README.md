@@ -1,2 +1,2 @@
 # First-Repo
-Demo repository
+Demo repository for practicing
